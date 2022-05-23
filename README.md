@@ -13,9 +13,6 @@
   <a href="https://t.me/Compositr">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href="https://blog.compositr.dev">
-    <img src="https://img.shields.io/badge/Blog-f24fff?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog Badge"/>
-  </a>
 </div>
 
 <div align="center">
