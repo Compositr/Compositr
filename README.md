@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Compositr&style=flat-square&color=f24fff" alt="Page views badge"/>
 </div>
 
-<h1 align="center">Hi, I'm Compositr 👋</h1>
+<h1 align="center">Hi, I'm Compositr (aka Jim Ke) 👋</h1>
   <p>I am a TypeScript developer, and I enjoy working with NextJS (and by extension, React), Discord Bots and Crypto. I build web apps, Discord Bots and other stuff.</p>
 
 ---
